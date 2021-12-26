@@ -2,7 +2,7 @@ const width = 500;
 const height = 600;
 const quantity = 150;
 const types = [ 'text', 'select', 'progress', 'meter', 'button', 'radio', 'checkbox' ];
-const greetings = [ '叔婆四大','圣诞快乐','superstar','12月15日','叔婆四大','圣诞快乐','superstar','12月25','叔婆四大','圣诞快乐','superstar','12月15日','叔婆四大','圣诞快乐','superstar','12月15日','叔婆四大','superstar' ];
+const greetings = [ '叔婆四大','圣诞快乐','superstar','12月25日','叔婆四大','圣诞快乐','superstar','12月25','叔婆四大','圣诞快乐','superstar','12月25日','叔婆四大','圣诞快乐','superstar','12月25日','叔婆四大','superstar' ];
 let tree = document.querySelector( '.tree' ),
 	treeRotation = 0;
  
